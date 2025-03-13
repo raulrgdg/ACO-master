@@ -1,0 +1,1 @@
+Bueno pues aqui estamos aprendiendo a usar C++ y a paralelizar
