@@ -1,1 +1,1 @@
-Bueno pues aqui estamos aprendiendo a usar C++ y a paralelizar
+Repository created as part of the subject: Computational Astrophysics. The code in here is related with High Performance Physics (mainly parallelization), specifically for Cosmology/Astrophysics related simulations.
